@@ -7,7 +7,7 @@
 ![microsoft-certified-azure-fundamentals (1)](https://user-images.githubusercontent.com/97406127/181679626-f6e7cce4-146d-4d87-94e2-8b0e5c7821f9.png)
 
 
-![javascript-html5-and-css-html-css-js-badge-115630076742dl7bdlbaf](https://user-images.githubusercontent.com/97406127/181680843-a0536c83-8ed1-46e8-8b76-fe2bd0fd69e2.png)
+
 
 
 <!---
