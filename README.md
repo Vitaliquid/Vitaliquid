@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on as many projects as my learning curve/available time make it possible...
 - 📫 How to reach me, hit me up here.
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="73f6e201-ce3a-4129-96c8-0e2cde80f4f8" data-share-badge-host="https://www.credly.com">
+![microsoft-certified-azure-fundamentals](https://user-images.githubusercontent.com/97406127/181679450-125133a9-d958-4d04-9757-9774e4331078.png)
+
 
 <!---
 Vitaliquid/Vitaliquid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
