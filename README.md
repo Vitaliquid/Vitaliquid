@@ -1,6 +1,8 @@
+## Vitaliquid - Be like water
+
 Welcome to my github profile. 
 
-- 👋 Hi, I’m @Vitaliquid
+- 👋 Hi, I’m <a href="https://linktr.ee/vitalliquid">@Vitalliquid</a>
 - 👀 I’m interested in learning and developing neural networks, AI and quantum computing coding, programing and implementation...
 - 🌱 I’m currently learning python, math, english and french...
 - 💞️ I’m looking to collaborate on as many projects as my learning curve/available time make it possible...
