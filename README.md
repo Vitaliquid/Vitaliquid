@@ -12,7 +12,7 @@ Welcome to my github profile.
 <a href="https://www.freepnglogos.com/pics/javascript"><img src="https://www.freepnglogos.com/uploads/javascript-png/fix-html-css-javascript-for-website-logo-6.png" width="200" /></a>
 <img src="https://www.nicepng.com/png/detail/333-3336792_java-logo-programming-language-java-logo.png" width="45">
 <a title="www.python.org, GPL &lt;http://www.gnu.org/licenses/gpl.html&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Python-logo-notext.svg"><img width="60" alt="Python-logo-notext" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/64px-Python-logo-notext.svg.png"></a>
-<img src="https://vaadin.com/images/social-media/vaadinffs-banner_squared.png" width="200" /></a>
+<img src="https://vaadin.com/images/social-media/vaadinffs-banner_squared.png" width="100" /></a>
 
 [ChocoBoom](https://vitaliquid.github.io/ChocoBoom) - Delicious treats with original ingredients.
 
